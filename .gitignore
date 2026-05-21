@@ -1,6 +1,4 @@
 node_modules/
 dist/
-out/
-downloads/
-.env
-.DS_Store
+.tmp_*/
+*.log
